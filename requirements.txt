@@ -1,0 +1,5 @@
+django 
+djangorestframework
+environs
+pandas
+psycopg2
